@@ -9,7 +9,7 @@ NOTE : run mosquitto.exe on command prompt.
 
     mosquitto
 
-Then use `mosquitto_sub` to subscribe to a topic:
+Then use "mosquitto_sub" to subscribe to a topic:
 
     mosquitto_sub -t 'test/topic' -v
 
